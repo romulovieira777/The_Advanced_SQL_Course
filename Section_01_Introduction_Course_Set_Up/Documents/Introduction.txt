@@ -1,0 +1,15 @@
+(Opcional) Instalação manual de dados
+
+
+*Only read this if you had any issues downloading the sample datasets*
+
+
+The datasets I am using have been refreshed as of 24th April 2021. It is possible that these datasets can be deleted or updated so that they are significantly different to my lectures.
+
+If this is the case then I have attached the DDL Scripts and XML data files (refreshed as of 24th April 2021) in the Appendix section of this course and I have posted videos on how to manually install these datasets.
+
+This way you can ensure that you are using the exact same dataset as per my lectures.
+
+However, I would only suggest you manually install the data if the datasets on Oracle APEX have changed significantly.
+
+Please visit the Appendix section if you need to manually install any of the 3 the datasets.
