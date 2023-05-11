@@ -1,3 +1,5 @@
+-- COALESCE must have the same data type.
+
 SELECT
     *
 FROM

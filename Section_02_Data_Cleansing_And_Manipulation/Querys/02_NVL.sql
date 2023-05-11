@@ -11,7 +11,7 @@ FROM
     emp;
 
 
--- Não pode ser string pq o dado de retorno é inteiro
+-- It cannot be a string because the return data is an integer.
 SELECT
     emp.*
   , NVL(comm, 'No Commision')
