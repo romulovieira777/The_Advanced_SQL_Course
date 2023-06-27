@@ -19,9 +19,26 @@ FROM
     emp;
 
 
-INSERT INTO 
-    emp
-VALUES(0, null, 'Test', 0, sysdate, 1000, null, 10);
+
+SELECT
+    *
+FROM
+    emp;
+
+
+
+INSERT INTO
+  emp
+VALUES
+  (0, NULL, 'Test', 0, sysdate, 1000, NULL, 10);
+
+
+
+SELECT
+    *
+FROM
+    emp;
+
 
 
 SELECT
