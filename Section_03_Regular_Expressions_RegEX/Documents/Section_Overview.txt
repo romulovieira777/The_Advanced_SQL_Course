@@ -1,0 +1,16 @@
+Section Overview
+
+
+In this section we will be focusing on Regular Expressions.
+
+Specifically, on the metacharacters used for pattern matching in RegEx functions along with the main RegEx functions in Oracle SQL, which are:
+
+REGEXP_LIKE
+
+REGEXP_INSTR
+
+REGEXP_SUBSTR
+
+REGEXP_REPLACE
+
+I have also included documentation for MySQL and SQL Server.
