@@ -1,0 +1,15 @@
+Assignment Question 2
+
+Enter the following Create Table command to create a table that will store information about how many goals players have scored across 3 seasons (2018, 2019 and 2020)
+
+    create table goals_per_season(player varchar(10), year_2018 int, year_2019 int, year_2020 int);
+
+Now individually execute the 3 Insert commands to insert records into our newly created table
+
+    insert into goals_per_season values ('Rick', 51,31,38);
+
+    insert into goals_per_season values ('Jeff', 28,37,36);
+
+    insert into goals_per_season values ('George', 40,55,48);
+
+Your assignment question is to UNPIVOT the GOALS_PER_SEASON Table to look like the screenshot below:
