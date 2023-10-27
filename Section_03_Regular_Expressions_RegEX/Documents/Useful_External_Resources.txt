@@ -1,0 +1,22 @@
+Useful External Resources
+
+
+Here are some useful links that cover Metacharacters and RegEx Functions for some of the different Database Management Systems:
+
+Metacharacters
+
+[Official Oracle Documentation](https://docs.oracle.com/cd/B12037_01/appdev.101/b10795/adfns_re.htm#1006826)
+
+[Official MySQL Documentation](https://dev.mysql.com/doc/refman/8.0/en/regexp.html#regexp-operator-descriptions)
+
+[Official Microsoft Documentation](https://learn.microsoft.com/en-us/sql/ssms/scripting/search-text-with-regular-expressions?view=sql-server-ver15)
+
+
+Regular Expression Functions
+
+[Official Oracle Documentation](https://docs.oracle.com/cd/B12037_01/appdev.101/b10795/adfns_re.htm)
+
+[Official MySQL Documentation](https://dev.mysql.com/doc/refman/8.0/en/regexp.html)
+
+* Note that Microsoft SQL Server does not support built-in RegEx functions, you can however use the LIKE operator with metacharacters to define 
+a search pattern
