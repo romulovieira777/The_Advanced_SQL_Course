@@ -1,0 +1,12 @@
+Section Overview
+
+
+This is one of the most important sections of the course.
+
+Analytic Functions calculate an aggregate value based on a group of rows. Unlike aggregate functions, however, Analytic Functions can return 
+multiple rows for each group. We can use Analytic Functions to compute aggregated values, moving averages, running totals, percentages or 
+top-N results within a group and much, much more as you will see in this section.
+
+We will cover in detail the syntax for Analytical Functions and have a series of code alongs, practice scenarios and assignment questions.
+
+By the end of this section you will have a solid understanding of Analytical Functions.
