@@ -1,0 +1,13 @@
+You may be wondering why I haven't partitioned the window function by Year in my solution for Question 3.
+
+This is because it's not required. I am defining my window range as 2 preceding, so when the year is 202101, 2 preceding
+from that is 202101-2 = 202099, so the previous years months are excluded from the window frame and it's naturally
+partitioned by the year.
+
+Version Portguese.
+
+Você pode estar se perguntando por que não particionei a função de janela por ano em minha solução para a Questão 3.
+
+Isso não é necessário. Estou definindo minha faixa de janela como 2 anteriores, então quando o ano é 202101, 2 anteriores
+a isso é 202101-2 = 202099, então os meses anteriores do ano são excluídos do quadro da janela e é naturalmente
+particionado pelo ano.
