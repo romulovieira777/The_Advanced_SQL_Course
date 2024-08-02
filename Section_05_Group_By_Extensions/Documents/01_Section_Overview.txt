@@ -1,0 +1,26 @@
+The Advanced SQL Course.
+
+This section focuses on Extensions to the Group By clause.
+
+These extensions are:
+
+    - ROLLUP
+    - CUBE
+    - GROUPING SETS
+
+They allow you to display sub totals and grand totals in your Group By query results.
+
+
+Version in Portuguese:
+
+O Curso de SQL Avançado.
+
+Esta seção foca em Extensões para a cláusula Group By.
+
+Estas extensões são:
+
+    - ROLLUP
+    - CUBE
+    - GROUPING SETS
+
+Elas permitem que você exiba subtotais e totais gerais em seus resultados de consulta Group By.
