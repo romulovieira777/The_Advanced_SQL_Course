@@ -1,0 +1,8 @@
+Official Oracle Documentation
+https://docs.oracle.com/cd/F49540_01/DOC/server.815/a68003/rollup_c.htm#32632
+
+Official MySQL Documentation
+https://dev.mysql.com/doc/refman/8.0/en/group-by-modifiers.html
+
+Official Microsoft Documentation
+https://learn.microsoft.com/en-us/sql/t-sql/queries/select-group-by-transact-sql?view=sql-server-ver15
