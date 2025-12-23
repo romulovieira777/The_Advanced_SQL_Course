@@ -1,0 +1,9 @@
+This section will focus on Hierarchical Queries in Oracle SQL.
+
+You can use hierarchical queries to travel along parent-child relationships in hierarchical data.
+
+Hierarchical data can be a table that has both a parent and child column such as family trees, product categories and
+company organization structures.
+
+In the next section I will discuss recursive CTEs which can be used as an alternate to hierarchical queries in SQL
+Server and MySQL.
